@@ -31,7 +31,7 @@ The **ToDo App** is a simple and intuitive task management application built wit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Mahmoud664h/todo-app.git
    ```
 
 2. Navigate to the project directory:
@@ -46,9 +46,3 @@ The **ToDo App** is a simple and intuitive task management application built wit
    flutter pub get
    ```
 
-4. Run the app on an emulator or connected device:
-
-   ```bash
-   git clone https://github.com/Mahmoud664h/todo-app.git
-
-   ```
